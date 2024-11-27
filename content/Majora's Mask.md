@@ -5,7 +5,7 @@ date = 2023-05-27T00:00:00Z
 draft = false
 
 [taxonomies]
-tags = ["Esquive la Boule de Feu", "La fin du game"]
+tags = ["Esquive la Boule de Feu","La fin du game"]
 
 [extra]
 toc = true

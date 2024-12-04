@@ -23,7 +23,9 @@
         <link rel="alternate" type="text/html" href="https://Munaalk.github.io/zola_example/mortellerandonnee/"/>
         <id>https://Munaalk.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://Munaalk.github.io/zola_example/mortellerandonnee/">&lt;p&gt;tata&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://Munaalk.github.io/zola_example/mortellerandonnee/">&lt;p&gt;!Logo de Wikipedia (https:&#x2F;&#x2F;upload.wikimedia.org&#x2F;wikipedia&#x2F;en&#x2F;8&#x2F;80&#x2F;Wikipedia-logo-v2.svg&quot;Logo de Wikipedia&quot;)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;col1-col2-col3&quot;&gt;|col1|col2|col3&lt;&#x2F;h2&gt;
+&lt;p&gt;|col1|col2|col3&lt;&#x2F;p&gt;
 </content>
         
     </entry>

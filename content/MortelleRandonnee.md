@@ -11,6 +11,12 @@ tags = ["Esquive les flèches ou meurs pour l'éternité et au-delà!"]
 toc = true
 +++
 
+!Logo de Wikipedia (https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg"Logo de Wikipedia")
 
-tata
+|col1|col2|col3
+---------------
+|col1|col2|col3
+
+
+
 
